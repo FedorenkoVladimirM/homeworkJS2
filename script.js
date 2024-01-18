@@ -25,6 +25,7 @@ alert(f - c)
 alert(f * c)
 alert(f / c)
 
+
 let d = 2; //Задание 5
 
 result = d ** 5;
